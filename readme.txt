@@ -1,8 +1,10 @@
-Falling Block Game (a.k.a Tetris)
+Falling Block Game (aka Tetris)
 
-Logan Bowers
+by Logan Bowers
 
 Summary: Blocks are falling from the sky. Try to stack them as neatly as possible.
+
+To Run The Game: Open the Tetris.gba file in a GBA emulator of your choice (for example VBAM).  
 
 Controls:
     Start       - Navigate Menus
