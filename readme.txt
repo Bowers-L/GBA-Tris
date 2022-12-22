@@ -1,4 +1,4 @@
-Falling Block Game (aka Tetris)
+Falling Block Game
 
 by Logan Bowers
 
